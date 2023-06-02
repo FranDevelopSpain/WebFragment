@@ -1,0 +1,8 @@
+<resources>
+    <string name="access_button">Acceder</string>
+    <string name="title_0">Inicio</string>
+    <string name="web1">Web 1</string>
+    <string name="web2">Web 2</string>
+    <string name="error">Campo vacío</string>
+    <string name="webcomplete">web lista</string>
+</resources>
